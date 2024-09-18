@@ -1,0 +1,43 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1726645781;s:6:"expire";i:1726732181;s:4:"tags";s:45:"69d_BLOCK_HTML,69d_CAT_P_1,69d_CAT_P,69d_MAGE";}
+
+    <ul class="prices-tier&#x20;items">
+                    <li class="item">
+                                    Buy 5 for 
+
+<span class="price-container price-tier_price&#x20;tax&#x20;weee"
+        >
+        <span                 data-price-amount="30"
+        data-price-type=""
+        class="price-wrapper "
+    ><span class="price">$30.00</span></span>
+        </span>
+ each and <strong class="benefit">save<span class="percent tier-0">&nbsp;12</span>%</strong>                            </li>
+                    <li class="item">
+                                    Buy 10 for 
+
+<span class="price-container price-tier_price&#x20;tax&#x20;weee"
+        >
+        <span  id="1"                data-price-amount="28"
+        data-price-type=""
+        class="price-wrapper "
+    ><span class="price">$28.00</span></span>
+        </span>
+ each and <strong class="benefit">save<span class="percent tier-1">&nbsp;18</span>%</strong>                            </li>
+            </ul>
+            <script type="text/x-magento-init">
+            {
+                ".product-info-main": {
+                    "addToCart": {
+                        "origin": "tier",
+                        "addToCartButton": "#product_addtocart_form [type=submit]",
+                        "inputQty": "#qty",
+                        "attr": "[data-tier-price]",
+                        "productForm": "#product_addtocart_form",
+                        "productId": "1",
+                        "productIdInput": "input[type=hidden][name=product]",
+                        "isSaleable": "1"
+                    }
+                }
+            }
+        </script>
+    
