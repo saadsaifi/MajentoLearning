@@ -1,0 +1,62 @@
+{
+    "payment_services_order_data_production_submitted_hash": {
+        "constraint": {
+            "PRIMARY": true
+        },
+        "column": {
+            "identifier": true,
+            "feed_hash": true,
+            "submitted_at": true
+        }
+    },
+    "payment_services_order_data_sandbox_submitted_hash": {
+        "constraint": {
+            "PRIMARY": true
+        },
+        "column": {
+            "identifier": true,
+            "feed_hash": true,
+            "submitted_at": true
+        }
+    },
+    "payment_services_order_status_data_prod_submitted_hash": {
+        "constraint": {
+            "PRIMARY": true
+        },
+        "column": {
+            "identifier": true,
+            "feed_hash": true,
+            "submitted_at": true
+        }
+    },
+    "payment_services_order_status_data_sandbox_submitted_hash": {
+        "constraint": {
+            "PRIMARY": true
+        },
+        "column": {
+            "identifier": true,
+            "feed_hash": true,
+            "submitted_at": true
+        }
+    },
+    "payment_services_store_data_production_submitted_hash": {
+        "constraint": {
+            "PRIMARY": true
+        },
+        "column": {
+            "identifier": true,
+            "feed_hash": true,
+            "submitted_at": true
+        }
+    },
+    "payment_services_store_data_sandbox_submitted_hash": {
+        "constraint": {
+            "PRIMARY": true
+        },
+        "column": {
+            "identifier": true,
+            "feed_hash": true,
+            "submitted_at": true
+        }
+    }
+}

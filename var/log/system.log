@@ -1,0 +1,314 @@
+[2024-09-17T11:35:42.719117+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:35:42.772695+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:35:42.851384+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:35:42.983475+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:35:43.033208+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:35:43.110978+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:35:45.619858+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 50010000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:36:17.266565+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:36:17.266718+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:36:17.266894+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:36:17.266978+00:00] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:36:17.267037+00:00] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:36:17.267093+00:00] main.INFO: Broken reference: the 'sidebar.container.paylater' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:36:22.228139+00:00] main.ERROR: The "/var/www/html/var/tmp/alternative-source-css.lock" file can't be deleted.  [] []
+[2024-09-17T11:36:22.228433+00:00] main.CRITICAL: The "/var/www/html/var/tmp/alternative-source-css.lock" file can't be deleted.  [] []
+[2024-09-17T11:36:51.862629+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T11:37:16.812828+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:37:16.813097+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:37:16.813280+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:37:40.141660+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:37:40.141940+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:37:40.142125+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:38:07.479835+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:38:07.480122+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:38:07.480316+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:38:12.196671+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:38:12.196944+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:38:12.197126+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:38:53.825356+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:38:53.825646+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:38:53.825838+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:08.494347+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:08.494620+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:08.494804+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:08.494891+00:00] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:08.494950+00:00] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:08.495006+00:00] main.INFO: Broken reference: the 'sidebar.container.paylater' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:24.292739+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:24.293012+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:24.293199+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:30.098280+00:00] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2024-09-17T11:39:30.098600+00:00] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2024-09-17T11:39:30.098672+00:00] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2024-09-17T11:39:30.098754+00:00] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2024-09-17T11:39:30.098819+00:00] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2024-09-17T11:39:30.098915+00:00] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2024-09-17T11:39:30.099053+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:30.099141+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:30.099323+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:39:30.099434+00:00] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2024-09-17T11:39:30.099505+00:00] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2024-09-17T11:40:06.715689+00:00] main.INFO: Order placed. Order ID:  [] []
+[2024-09-17T11:40:08.266868+00:00] main.ERROR: Unable to send mail. Please try again later. [] []
+[2024-09-17T11:40:09.042882+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:40:09.043151+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:40:09.043334+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:42:18.138928+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T11:42:24.698112+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T11:48:09.907245+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:48:09.960629+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:48:10.039942+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:48:10.183237+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:48:10.233644+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:48:10.312549+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:48:12.967284+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 50010000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T11:48:43.690559+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:48:43.703818+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:48:43.704277+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:48:54.026533+00:00] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2024-09-17T11:48:54.026827+00:00] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2024-09-17T11:48:54.026896+00:00] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2024-09-17T11:48:54.026982+00:00] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2024-09-17T11:48:54.027041+00:00] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2024-09-17T11:48:54.027143+00:00] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2024-09-17T11:48:54.027281+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:48:54.027404+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:48:54.027661+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:48:54.027774+00:00] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2024-09-17T11:48:54.027846+00:00] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2024-09-17T11:49:08.971348+00:00] main.INFO: Order placed. Order ID: 000000008 [] []
+[2024-09-17T11:49:08.971600+00:00] main.INFO: Order Status Code: pending [] []
+[2024-09-17T11:49:08.971676+00:00] main.INFO: Total Order Amount: 50 [] []
+[2024-09-17T11:49:09.908451+00:00] main.ERROR: Unable to send mail. Please try again later. [] []
+[2024-09-17T11:49:10.309525+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:49:10.309797+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:49:10.309985+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T11:49:31.865686+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T11:49:50.158150+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T11:49:52.936882+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:19:48.009410+00:00] main.INFO: Broken reference: the 'tracking' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.009660+00:00] main.INFO: Broken reference: the 'notification_area' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.009727+00:00] main.INFO: Broken reference: the 'unread_system_messages' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.009786+00:00] main.INFO: Broken reference: the 'notification_window' element cannot be added as child to 'notifications', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.009842+00:00] main.INFO: Broken reference: the 'notification.messages' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.009904+00:00] main.INFO: Broken reference: the 'global_notices' element cannot be added as child to 'global.notices', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.009960+00:00] main.INFO: Broken reference: the 'logo' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010018+00:00] main.INFO: Broken reference: the 'global.search' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010075+00:00] main.INFO: Broken reference: the 'user' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010133+00:00] main.INFO: Broken reference: the 'menu' element cannot be added as child to 'page.menu', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010201+00:00] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.breadcrumbs', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010266+00:00] main.INFO: Broken reference: the 'formkey' element cannot be added as child to 'page.formkey', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010345+00:00] main.INFO: Broken reference: the 'page.title' element cannot be added as child to 'main.top', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010402+00:00] main.INFO: Broken reference: the 'messages' element cannot be added as child to 'page.messages', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010458+00:00] main.INFO: Broken reference: the 'page.actions.toolbar' element cannot be added as child to 'page.main.actions', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010515+00:00] main.INFO: Broken reference: the 'legal' element cannot be added as child to 'footer', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010644+00:00] main.INFO: Broken reference: the 'header.inner.left' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010703+00:00] main.INFO: Broken reference: the 'header.inner.right' element cannot be added as child to 'header', because the latter doesn't exist [] []
+[2024-09-17T12:19:48.010817+00:00] main.INFO: Broken reference: the 'user' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2024-09-17T12:19:48.010877+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header' and '' respectively. [] []
+[2024-09-17T12:19:48.010934+00:00] main.INFO: Broken reference: the 'logo' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2024-09-17T12:19:48.010990+00:00] main.INFO: Broken reference: the 'global.search' tries to reorder itself towards 'logo', but their parents are different: 'header' and '' respectively. [] []
+[2024-09-17T12:19:48.011046+00:00] main.INFO: Broken reference: the 'page.actions.toolbar' tries to reorder itself towards '', but their parents are different: 'page.main.actions' and '' respectively. [] []
+[2024-09-17T12:19:48.011118+00:00] main.INFO: Broken reference: the 'header.inner.left' tries to reorder itself towards '', but their parents are different: 'header' and '' respectively. [] []
+[2024-09-17T12:19:48.011174+00:00] main.INFO: Broken reference: the 'header.inner.right' tries to reorder itself towards 'header.inner.left', but their parents are different: 'header' and '' respectively. [] []
+[2024-09-17T12:19:48.011239+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and '' respectively. [] []
+[2024-09-17T12:19:54.352084+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:19:58.521357+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:20:16.733694+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:21:18.564737+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:22:01.808878+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:23:02.144265+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:42:58.268856+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:43:48.452311+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:44:32.811984+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:44:51.000267+00:00] main.INFO: Broken reference: the 'product.reviews' element cannot be added as child to 'product_tabs', because the latter doesn't exist [] []
+[2024-09-17T12:44:51.000627+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:46:46.072386+00:00] main.INFO: Broken reference: the 'product.reviews' element cannot be added as child to 'product_tabs', because the latter doesn't exist [] []
+[2024-09-17T12:46:46.072738+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:47:19.841743+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:47:26.696088+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:47:26.696335+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:47:26.696517+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:47:44.592362+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:47:44.592636+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:47:44.592834+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:47:44.593153+00:00] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' element cannot be added as child to 'checkout.cart.item.renderers.gift-card.actions', because the latter doesn't exist [] []
+[2024-09-17T12:47:44.593527+00:00] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' tries to reorder itself towards '', but their parents are different: 'checkout.cart.item.renderers.gift-card.actions' and '' respectively. [] []
+[2024-09-17T12:47:52.112158+00:00] main.INFO: Broken reference: the 'header.panel.wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2024-09-17T12:47:52.112441+00:00] main.INFO: Broken reference: the 'header-wrapper' element cannot be added as child to 'header.container', because the latter doesn't exist [] []
+[2024-09-17T12:47:52.112510+00:00] main.INFO: Broken reference: the 'navigation.sections' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2024-09-17T12:47:52.112596+00:00] main.INFO: Broken reference: the 'top.container' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2024-09-17T12:47:52.112661+00:00] main.INFO: Broken reference: the 'breadcrumbs' element cannot be added as child to 'page.top', because the latter doesn't exist [] []
+[2024-09-17T12:47:52.112756+00:00] main.INFO: Broken reference: the 'footer' element cannot be added as child to 'footer-container', because the latter doesn't exist [] []
+[2024-09-17T12:47:52.112897+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:47:52.112977+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:47:52.113156+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:47:52.113272+00:00] main.INFO: Broken reference: the 'header.panel.wrapper' tries to reorder itself towards '', but their parents are different: 'header.container' and '' respectively. [] []
+[2024-09-17T12:47:52.113343+00:00] main.INFO: Broken reference: the 'navigation.sections' tries to reorder itself towards '', but their parents are different: 'page.top' and '' respectively. [] []
+[2024-09-17T12:48:12.829229+00:00] main.INFO: Order placed. Order ID: 000000009 [] []
+[2024-09-17T12:48:12.829476+00:00] main.INFO: Order Status Code: pending [] []
+[2024-09-17T12:48:12.829537+00:00] main.INFO: Total Order Amount: 39 [] []
+[2024-09-17T12:48:13.703906+00:00] main.ERROR: Unable to send mail. Please try again later. [] []
+[2024-09-17T12:48:14.140988+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:48:14.141338+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:48:14.141533+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:48:22.218187+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:48:43.161978+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:49:27.864811+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:49:27.865192+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:49:27.865471+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:49:37.627398+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:49:37.627686+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:49:37.627882+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T12:49:37.628197+00:00] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' element cannot be added as child to 'checkout.cart.item.renderers.gift-card.actions', because the latter doesn't exist [] []
+[2024-09-17T12:49:37.628577+00:00] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' tries to reorder itself towards '', but their parents are different: 'checkout.cart.item.renderers.gift-card.actions' and '' respectively. [] []
+[2024-09-17T12:53:54.541371+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:54:10.933170+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T12:54:29.164701+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T13:39:50.648928+00:00] main.ERROR: There are no commands defined in the "cache" namespace.
+#0 /var/www/html/vendor/symfony/console/Application.php(720): Symfony\Component\Console\Application->findNamespace('cache')
+#1 /var/www/html/vendor/symfony/console/Application.php(266): Symfony\Component\Console\Application->find('cache:flush')
+#2 /var/www/html/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-09-17T13:40:58.051744+00:00] main.ERROR: There are no commands defined in the "cache" namespace.
+#0 /var/www/html/vendor/symfony/console/Application.php(720): Symfony\Component\Console\Application->findNamespace('cache')
+#1 /var/www/html/vendor/symfony/console/Application.php(266): Symfony\Component\Console\Application->find('cache:flush')
+#2 /var/www/html/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-09-17T13:45:26.124943+00:00] main.ERROR: There are no commands defined in the "cache" namespace.
+#0 /var/www/html/vendor/symfony/console/Application.php(720): Symfony\Component\Console\Application->findNamespace('cache')
+#1 /var/www/html/vendor/symfony/console/Application.php(266): Symfony\Component\Console\Application->find('cache:flush')
+#2 /var/www/html/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-09-17T13:47:12.443255+00:00] main.ERROR: There are no commands defined in the "cache" namespace.
+#0 /var/www/html/vendor/symfony/console/Application.php(720): Symfony\Component\Console\Application->findNamespace('cache')
+#1 /var/www/html/vendor/symfony/console/Application.php(266): Symfony\Component\Console\Application->find('cache:clean')
+#2 /var/www/html/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-09-17T13:47:12.887837+00:00] main.ERROR: There are no commands defined in the "cache" namespace.
+#0 /var/www/html/vendor/symfony/console/Application.php(720): Symfony\Component\Console\Application->findNamespace('cache')
+#1 /var/www/html/vendor/symfony/console/Application.php(266): Symfony\Component\Console\Application->find('cache:flush')
+#2 /var/www/html/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-09-17T13:47:38.672134+00:00] main.ERROR: There are no commands defined in the "cache" namespace.
+#0 /var/www/html/vendor/symfony/console/Application.php(720): Symfony\Component\Console\Application->findNamespace('cache')
+#1 /var/www/html/vendor/symfony/console/Application.php(266): Symfony\Component\Console\Application->find('cache:flush')
+#2 /var/www/html/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-09-17T13:49:35.475740+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T13:49:35.543565+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T13:49:35.623796+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T13:49:35.782479+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T13:49:35.832874+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T13:49:35.925955+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T13:49:59.098694+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 50010000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T13:51:09.129506+00:00] main.ERROR: Could not create an acl object: Invalid Document 
+Error in merged XML after reading /var/www/html/vendor/magento/module-config/etc/acl.xml
+Element 'resource': The attribute 'title' is required but missing.
+Line: 7
+The xml was: 
+2:/**
+3: * Copyright © Magento, Inc. All rights reserved.
+4: * See COPYING.txt for license details.
+5: */
+6:-->
+7:<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Acl/etc/acl.xsd">
+8:    <acl>
+9:        <resources>
+10:            <resource id="Magento_Backend::admin" title="Magento Admin" translate="title" sortOrder="20">
+11:                <resource id="Magento_Backend::stores" title="Stores" translate="title" sortOrder="80">
+
+Element 'resource': Duplicate key-sequence ['Magento_Config::config'] in unique identity-constraint 'uniqueResourceId'.
+Line: 7
+The xml was: 
+2:/**
+3: * Copyright © Magento, Inc. All rights reserved.
+4: * See COPYING.txt for license details.
+5: */
+6:-->
+7:<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Acl/etc/acl.xsd">
+8:    <acl>
+9:        <resources>
+10:            <resource id="Magento_Backend::admin" title="Magento Admin" translate="title" sortOrder="20">
+11:                <resource id="Magento_Backend::stores" title="Stores" translate="title" sortOrder="80">
+ [] []
+[2024-09-17T13:54:51.550639+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T13:55:08.721292+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T14:01:31.173918+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T14:01:34.149612+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T14:11:24.916201+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T14:17:52.546610+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:17:52.754448+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:17:52.892241+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:17:54.698713+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:17:55.065709+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:17:55.198265+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:18:15.111760+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 50010000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:18:29.998017+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T14:19:08.414170+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T14:29:13.124294+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:29:13.336769+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:29:13.466058+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:29:15.656182+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:29:15.922873+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:29:16.110673+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:29:26.050922+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 50010000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-17T14:33:04.045243+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T14:46:47.534037+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T14:47:02.481067+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T14:47:06.823067+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-17T14:47:28.998839+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T14:47:28.999110+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T14:47:28.999301+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T14:47:28.999616+00:00] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' element cannot be added as child to 'checkout.cart.item.renderers.gift-card.actions', because the latter doesn't exist [] []
+[2024-09-17T14:47:29.000001+00:00] main.INFO: Broken reference: the 'checkout.cart.item.renderers.gift-card.actions.gift_options' tries to reorder itself towards '', but their parents are different: 'checkout.cart.item.renderers.gift-card.actions' and '' respectively. [] []
+[2024-09-17T14:47:37.346560+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T14:47:37.347038+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T14:47:37.347357+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T14:47:37.347510+00:00] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T14:47:37.348025+00:00] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T14:47:37.348172+00:00] main.INFO: Broken reference: the 'sidebar.container.paylater' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T14:55:19.069823+00:00] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T14:55:19.070132+00:00] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-17T14:55:19.070333+00:00] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2024-09-18T06:15:06.832678+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-18T06:15:42.254061+00:00] main.INFO: Broken reference: the 'notification.messages' tries to reorder itself towards 'user', but their parents are different: 'header.inner.right' and 'header' respectively. [] []
+[2024-09-18T06:22:16.224479+00:00] main.ERROR: There are no commands defined in the "satup" namespace.
+
+Did you mean one of these?
+    setup
+    setup:config
+    setup:db
+    setup:db-data
+    setup:db-declaration
+    setup:db-schema
+    setup:di
+    setup:performance
+    setup:static-content
+    setup:store-config
+#0 /var/www/html/vendor/symfony/console/Application.php(720): Symfony\Component\Console\Application->findNamespace('satup')
+#1 /var/www/html/vendor/symfony/console/Application.php(266): Symfony\Component\Console\Application->find('satup:upgrade')
+#2 /var/www/html/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-09-18T06:22:36.155207+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-18T06:22:36.218035+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-18T06:22:36.298826+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-18T06:22:36.438217+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-18T06:22:36.488302+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-18T06:22:36.567692+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-09-18T06:22:39.210679+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 50010000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []

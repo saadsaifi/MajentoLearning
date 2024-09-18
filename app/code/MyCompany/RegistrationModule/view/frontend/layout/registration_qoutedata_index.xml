@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="content">
+            <block class="Magento\Framework\View\Element\Template" name="registration_data" template="MyCompany_RegistrationModule::combined.phtml">
+                <arguments>
+                    <argument name="view_model" xsi:type="object">MyCompany\RegistrationModule\ViewModel\RegistrationData</argument>
+                </arguments>
+            </block>
+        </referenceContainer>
+    </body>
+</page>
+
+
+
+<!--<referenceContainer name="content">-->
+<!--<block class="MyCompany\RegistrationModule\Block\Qoutedata" name="registration_data" template="MyCompany_RegistrationModule::qoutedata.phtml"/>-->
+<!--<block class="MyCompany\RegistrationModule\Block\SummaryBlock" name="registration_data1" template="MyCompany_RegistrationModule::qoutedata2.phtml"/>-->
+<!--</referenceContainer>-->

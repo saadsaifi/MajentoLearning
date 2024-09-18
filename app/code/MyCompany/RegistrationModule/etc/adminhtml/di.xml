@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
+        <arguments>
+            <argument name="collections" xsi:type="array">
+                <item name="employee_form_data_source" xsi:type="string">registrationCollection</item>
+            </argument>
+        </arguments>
+    </type>
+    <virtualType name="registrationCollection" type="\MyCompany\RegistrationModule\Ui\Component\Form\DataProvider">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">registration_table</argument>
+            <argument name="resourceModel" xsi:type="string">\MyCompany\RegistrationModule\Model\ResourceModel\Registration</argument>
+        </arguments>
+    </virtualType>
+</config>

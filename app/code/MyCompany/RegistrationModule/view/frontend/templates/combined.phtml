@@ -1,0 +1,69 @@
+<h1 class="mb-4">Registration Data and Roles</h1>
+
+<?php
+
+/**
+ * @var MyCompany\RegistrationModule\ViewModel\RegistrationData $this
+ *
+ */
+
+$registrations = $this->getViewModel()->getRegistrations();
+$roles = $this->getViewModel()->getRoles();
+
+$url = $this->getViewFileUrl('MyCompany_RegistrationModule::css/style.css');
+if ($url):
+    echo '<link href="'.$url.'" rel="stylesheet" type="text/css" media="all" />';
+endif;
+?>
+
+<!-- Registrations Table -->
+<h2>Registration Data</h2>
+<?php if ($registrations->getSize() > 0): ?>
+    <table class="table table-bordered table-hover">
+        <thead class="thead-dark">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+        </tr>
+        </thead>
+        <tbody>
+        <?php foreach ($registrations as $registration): ?>
+            <tr>
+                <td><?= $registration->getId(); ?></td>
+                <td><?= $registration->getName(); ?></td>
+                <td><?= $registration->getEmail(); ?></td>
+            </tr>
+        <?php endforeach; ?>
+        </tbody>
+    </table>
+<?php else: ?>
+    <div class="alert alert-warning" role="alert">
+        No registrations found.
+    </div>
+<?php endif; ?>
+
+<!-- Roles Table -->
+<h2>Roles</h2>
+<?php if ($roles->getSize() > 0): ?>
+    <table class="table table-bordered table-hover">
+        <thead class="thead-dark">
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Role</th>
+        </tr>
+        </thead>
+        <tbody>
+        <?php foreach ($roles as $role): ?>
+            <tr>
+                <td><?= $role->getName(); ?></td>
+                <td><?= $role->getRole(); ?></td>
+            </tr>
+        <?php endforeach; ?>
+        </tbody>
+    </table>
+<?php else: ?>
+    <div class="alert alert-warning" role="alert">
+        No roles found.
+    </div>
+<?php endif; ?>
