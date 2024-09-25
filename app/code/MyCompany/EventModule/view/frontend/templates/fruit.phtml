@@ -1,0 +1,8 @@
+<div class="fruit-list">
+    <h1><?= __('Fruit Names') ?></h1>
+    <ul>
+        <?php foreach ($block->getFruitNames() as $fruit): ?>
+            <li><h2><?= $block->escapeHtml($fruit) ?></h2></li>
+        <?php endforeach; ?>
+    </ul>
+</div>
