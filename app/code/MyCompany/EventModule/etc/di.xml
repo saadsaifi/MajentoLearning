@@ -4,4 +4,4 @@
     <preference for="Magento\Catalog\Model\Product"
                 type="MyCompany\EventModule\Model\Product"/>
 </config>
-g
+
