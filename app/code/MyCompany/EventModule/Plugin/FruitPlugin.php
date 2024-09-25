@@ -7,10 +7,7 @@ class FruitPlugin
 {
     public function afterGetFruitNames(Fruit $subject, array $result)
     {
-        foreach ($result as &$fruit) {
-            $fruit .= ' on sale';
-        }
-
+        $result[] = "Peach";
         return $result;
     }
 }

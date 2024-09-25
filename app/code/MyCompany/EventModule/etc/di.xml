@@ -3,6 +3,9 @@
     <type name="MyCompany\EventModule\Model\Fruit">
         <plugin name="fruit_plugin" type="MyCompany\EventModule\Plugin\FruitPlugin" />
     </type>
+    <type name="Magento\Catalog\Pricing\Render\FinalPriceBox">
+        <plugin name="product_price_plugin" type="MyCompany\EventModule\Plugin\ProductPricePlugin" />
+    </type>
 </config>
 
 
