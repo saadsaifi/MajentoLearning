@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
-    <menu>
-        <add id="MyCompany_RegistrationModule::Menu" title="Manage Forms" module="MyCompany_RegistrationModule" sortOrder="51" resource="MyCompany_RegistrationModule::Menu"/>
-        <add id="MyCompany_RegistrationModule::post" title="View Form" module="MyCompany_RegistrationModule" sortOrder="10" action="registrationmodule/admin1/index" resource="MyCompany_RegistrationModule::post" parent="MyCompany_RegistrationModule::Menu"/>
-        <add id="MyCompany_RegistrationModule::new" title="New Entry" module="MyCompany_RegistrationModule" sortOrder="20" action="registrationmodule/admin1/newentry" resource="MyCompany_RegistrationModule::new" parent="MyCompany_RegistrationModule::Menu"/>
-    </menu>
-</config>

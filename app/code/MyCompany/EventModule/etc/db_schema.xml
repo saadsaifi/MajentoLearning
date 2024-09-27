@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
+    <table name="event_table" resource="default" engine="innodb" comment="Event Table">
+        <column xsi:type="int" name="event_id" nullable="false" identity="true" unsigned="true" comment="Event ID"/>
+        <column xsi:type="varchar" name="event_name" nullable="false" length="255" comment="Event Name"/>
+        <column xsi:type="text" name="event_description" nullable="false" comment="Event Description"/>
+        <column xsi:type="timestamp" name="created_at" nullable="false" default="CURRENT_TIMESTAMP" comment="Creation Time"/>
+
+        <!-- Defining the primary key constraint -->
+        <constraint xsi:type="primary" referenceId="PRIMARY">
+            <column name="event_id"/>
+        </constraint>
+    </table>
+</schema>
