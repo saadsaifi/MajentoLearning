@@ -89,14 +89,6 @@
                 </item>
             </argument>
         </column>
-		<column name="file">
-            <argument name="data" xsi:type="array">
-                <item name="config" xsi:type="array">
-                    <item name="filter" xsi:type="string">text</item>
-                    <item name="label" xsi:type="string" translate="true">Image</item>
-                </item>
-            </argument>
-        </column>
         <column name="description">
             <argument name="data" xsi:type="array">
                 <item name="config" xsi:type="array">

@@ -1,7 +1,20 @@
 <?xml version="1.0"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
-    <menu>
+    <!-- <menu>
         <add id="Practice_SampleModule::practice" title="Practice" module="Practice_SampleModule" resource="Practice_SampleModule::practice"
 		 translate="title" sortOrder="900" action="practice/index/index" />
+    </menu> -->
+       <menu>
+        <add id="Practice_SampleModule::Menu" title="GRID" module="Practice_SampleModule" sortOrder="900" resource="Practice_SampleModule::Menu"/>
+        <add id="Practice_SampleModule::Manage" title="Manage Form" module="Practice_SampleModule" sortOrder="10" action="practice/index/index" resource="Practice_SampleModule::Manage" parent="Practice_SampleModule::Menu"/>
     </menu>
 </config>
+
+
+
+
+
+
+
+
+ 

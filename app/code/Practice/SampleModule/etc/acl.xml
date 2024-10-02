@@ -3,8 +3,10 @@
     <acl>
         <resources>
 			<resource id="Magento_Backend::admin">
-				<resource id="Practice_SampleModule::practice" title="Practice" translate="title" sortOrder="900" />
+				    <resource id="Practice_SampleModule::Menu" title="GRID" sortOrder="900"/>
+                    <resource id="Practice_SampleModule::Manage" title="Manage Form" sortOrder="10"/>
 			</resource>
 		</resources>
     </acl>
 </config>
+

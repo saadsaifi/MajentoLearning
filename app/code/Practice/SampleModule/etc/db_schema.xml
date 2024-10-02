@@ -5,7 +5,6 @@
     <column xsi:type="int" name="entity_id" unsigned="false" nullable="false" identity="true" comment="Entity ID"/>
     <column xsi:type="varchar" name="name" nullable="false" length="255" comment="Name"/>
     <column xsi:type="text" name="description" nullable="false" comment="Description"/>      
-	
     <constraint xsi:type="primary" referenceId="PRIMARY">
         <column name="entity_id"/>
     </constraint>    
