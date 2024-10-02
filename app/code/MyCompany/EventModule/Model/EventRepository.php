@@ -30,11 +30,11 @@ class EventRepository implements EventRepositoryInterface
         return $event;
     }
 
-    public function save($id)
+    public function save(EventInterface $event)
     {
-            return "You entered integer " . $id;
+        $this->eventResource->save($event);
+        return $event;
     }
-
     public function deleteById($id)
     {
         try {

@@ -3,19 +3,19 @@
     <route url="/V1/event/:id" method="GET">
         <service class="MyCompany\EventModule\Api\EventRepositoryInterface" method="getById"/>
         <resources>
-            <resource ref="MyCompany_EventModule::event"/>
+            <resource ref="anonymous"/>
         </resources>
     </route>
     <route url="/V1/event" method="POST">
         <service class="MyCompany\EventModule\Api\EventRepositoryInterface" method="save"/>
         <resources>
-            <resource ref="MyCompany_EventModule::event"/>
+            <resource ref="anonymous"/>
         </resources>
     </route>
     <route url="/V1/event/:id" method="DELETE">
         <service class="MyCompany\EventModule\Api\EventRepositoryInterface" method="deleteById"/>
         <resources>
-            <resource ref="MyCompany_EventModule::event"/>
+            <resource ref="anonymous"/>
         </resources>
     </route>
 </routes>

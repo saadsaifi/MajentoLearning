@@ -14,10 +14,10 @@ interface EventRepositoryInterface
 
     /**
      * Save event
-     * @param int $id
-     * @return string
+     * @param \MyCompany\EventModule\Api\Data\EventInterface $event
+     * @return \MyCompany\EventModule\Api\Data\EventInterface
      */
-    public function save($id);
+    public function save(EventInterface $event);
 
 
     /**
